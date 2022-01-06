@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Kekalogin.Kekalogin.keka">
+      <class name="Kekalogin.Kekalogin.keka_Test">
         <methods>
           <include name="login"/>
         </methods>
-      </class> <!-- Kekalogin.Kekalogin.keka -->
+      </class> <!-- Kekalogin.Kekalogin.keka_Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
